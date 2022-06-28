@@ -2,7 +2,7 @@
 ![Latest Release](https://img.shields.io/github/v/release/GwendolyneFreddy/L-Ogre-et-le-Gnome?include_prereleases&color=gold)<a name="top" id="top"> </a>
 ![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/GwendolyneFreddy/L-Ogre-et-le-Gnome?color=gold&label=date)
 ![Platform](https://img.shields.io/static/v1?label=plateformes&message=windows%20%7C%20macOS%20%7C%20linux%20%7C%20Project%20Infinity&color=informational)
-![Language](https://img.shields.io/static/v1?label=langues&message=Fran%C3%A7ais%20%7C%20Anglais%20%7C%20Russe&color=limegreen)
+![Language](https://img.shields.io/static/v1?label=langues&message=Fran%C3%A7ais&color=limegreen)
 
 ![Supported games](https://img.shields.io/static/v1?label=jeux%20support%C3%A9s&message=BGII:ToB%20%7C%20BGT%20%7C%20BG2%3AEE%20%7C%20EET&color=dodgerblue)
 
@@ -32,6 +32,7 @@ BGT, BG2:EE et EET<h3>
 ## <a name="intro" id="intro"></a>Présentation
 
 L'ogre est le gnome est un petit module de quête qui vous enverra chercher des objets disséminés un peu partout dans SoA. Vous débuterez la quête en découvrant la cachette en ville d'un ogre qui aura quelque chose de surprenant à vous raconter. Libre à vous ensuite de l'engager ou non si vous voulez l'aider. Pour le moment, si vous l'engagez, considérez-le comme un "one day npc" car il n'a pas grand chose à dire.
+
 Un autre protagoniste du mod est un marchand gnome qui s’avère être la résurrection d'un vieux projet qui dormait dans mes placards : le magasin des "*Merveilleuseries de Lumens*".
 
 
