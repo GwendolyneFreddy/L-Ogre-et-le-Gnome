@@ -5,6 +5,8 @@
 ![Language](https://img.shields.io/static/v1?label=langues&message=Fran%C3%A7ais&color=limegreen)
 
 ![Supported games](https://img.shields.io/static/v1?label=jeux%20support%C3%A9s&message=BGII:ToB%20%7C%20BGT%20%7C%20BG2%3AEE%20%7C%20EET&color=dodgerblue)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/GwendolyneFreddy/L-Ogre-et-le-Gnome/latest/total?color=gold&label=downloads%20latest%20release%20-%20t%C3%A9l%C3%A9chargements%20dernière%20version&style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/GwendolyneFreddy/L-Ogre-et-le-Gnome/total?label=out%20of%20-%20sur%20un%20total%20de&color=yellow&style=plastic)
 
 
 <div align="center"><h1>L'ogre et le gnome, une histoire de Bleu</h1>
