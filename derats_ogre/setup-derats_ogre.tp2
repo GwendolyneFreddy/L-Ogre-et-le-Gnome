@@ -33,7 +33,7 @@ ADD_PROJECTILE ~derats_ogre/items/quete/pxw3chai.pro~
 COPY	~derats_ogre/items/quete/pxotemp1.spl~	~override~	WRITE_SHORT 0x98 ~%pxw3chai%~
 COPY_EXISTING	~pxotemp1.spl~		~override/pxotemp2.spl~	SAY NAME1 #3804	WRITE_SHORT 0x98 23
 COPY	~derats_ogre/cres/pxolume.cre~			~override~	SAY NAME1 @2	SAY NAME2 @2
-COPY	~derats_ogre/Store/pxolumen.sto~		~override~	SAY 0xc @15
+COPY	~derats_ogre/store/pxolumen.sto~		~override~	SAY 0xc @15
 COPY_EXISTING	~pxolumen.sto~		~override/pxolume1.sto~	WRITE_BYTE 0x14 165
 COPY_EXISTING	~rat.cre~						~override~	ADD_CRE_ITEM ~pxorat~ #0 #0 #0 ~identified~ ~inv2~
 COPY_EXISTING	~rabbit01.cre~					~override~	ADD_CRE_ITEM ~pxolapin~ #0 #0 #0 ~identified~ ~inv2~
@@ -84,10 +84,10 @@ COPY_EXISTING	~amcall.vvc~		~override/pxllyrev.vvc~	WRITE_ASCII 0x8 ~pxllyre1~ #
 COPY	~derats_ogre/items/objets/pxldragu.itm~	~override~	SAY NAME2 @1019	SAY DESC @1020
 COPY_EXISTING	~sumsunn.eff~		~override/pxllapin.eff~	WRITE_ASCII 0x30 ~pxllapin~ #8
 COPY_EXISTING	~sumsunn.eff~		~override/pxllap1.eff~	WRITE_ASCII 0x30 ~pxllap1~ #8
-COPY_EXISTING	~Rabbitsu.cre~		~override/pxllapin.cre~	WRITE_BYTE 0x270 4	WRITE_BYTE 0x275 4
+COPY_EXISTING	~rabbitsu.cre~		~override/pxllapin.cre~	WRITE_BYTE 0x270 4	WRITE_BYTE 0x275 4
 COPY_EXISTING	~pxllapin.cre~		~override/pxllap1.cre~	WRITE_ASCII 0x248 ~pxllap1~ #8
 COPY	~derats_ogre/items/objets/pxlmanus.itm~	~override~	SAY NAME2 @1021	SAY DESC @1022
-COPY	~derats_ogre/Spells/pxlmanus.spl~		~override~	SAY 0x12e @10221	SAY 0x15e @10222	SAY 0x18e @10223	SAY 0x1be @10224	SAY 0x1ee @10225	SAY 0x21e @10226
+COPY	~derats_ogre/spells/pxlmanus.spl~		~override~	SAY 0x12e @10221	SAY 0x15e @10222	SAY 0x18e @10223	SAY 0x1be @10224	SAY 0x1ee @10225	SAY 0x21e @10226
 COPY	~derats_ogre/items/objets/pxlflute.itm~	~override~	SAY NAME2 @1023	SAY DESC @1024
 COPY	~derats_ogre/items/objets/pxlbesac.itm~	~override~	SAY NAME2 @1025	SAY DESC @1026
 COPY	~derats_ogre/items/objets/pxlannea.itm~	~override~	SAY NAME2 @1027	SAY DESC @1028
@@ -142,7 +142,7 @@ COPY_EXISTING	~pxbengre.itm~		~override/pxbombre.itm~	SAY NAME2 @50973	SAY DESC 
 COPY_EXISTING	~pxbmouch.itm~		~override/pxbcorne.itm~	SAY NAME2 @50975 	SAY DESC @50976	WRITE_ASCII 0x3a ~pxbcorne~ #8	WRITE_SHORT 0x34 5000	WRITE_BYTE 0x4c 15
 COPY_EXISTING	~pxbmouch.itm~		~override/pxblingo.itm~	SAY NAME2 @50977 	SAY DESC @50978	WRITE_ASCII 0x3a ~pxblingo~ #8	WRITE_SHORT 0x34 1000
 COPY	~derats_ogre/items/besace/pxbboite.itm~	~override~	SAY NAME2 @501001	SAY DESC @501002
-COPY	~derats_ogre/Store/pxbboite.sto~		~override~	SAY 0xc @501001
+COPY	~derats_ogre/store/pxbboite.sto~		~override~	SAY 0xc @501001
 COPY	~derats_ogre/items/besace/pxbchoco.itm~	~override~	SAY NAME2 @5010021	SAY DESC @5010022
 COPY	~derats_ogre/items/besace/pxbchanc.itm~	~override~	SAY NAME2 @5010023	SAY DESC @5010024
 COPY	~derats_ogre/items/besace/pxbbonbo.itm~	~override~	SAY NAME2 @5010025	SAY DESC @5010026

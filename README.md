@@ -5,9 +5,6 @@
 ![Language](https://img.shields.io/static/v1?label=langues&message=Fran%C3%A7ais&color=limegreen)
 
 ![Supported games](https://img.shields.io/static/v1?label=jeux%20support%C3%A9s&message=BGII:ToB%20%7C%20BGT%20%7C%20BG2%3AEE%20%7C%20EET&color=dodgerblue)
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/GwendolyneFreddy/L-Ogre-et-le-Gnome/latest/total?color=gold&label=downloads%20latest%20release%20-%20t%C3%A9l%C3%A9chargements%20dernière%20version&style=plastic)
-![GitHub all releases](https://img.shields.io/github/downloads/GwendolyneFreddy/L-Ogre-et-le-Gnome/total?label=out%20of%20-%20sur%20un%20total%20de&color=yellow&style=plastic)
-
 
 <div align="center"><h1>L'ogre et le gnome, une histoire de Bleu</h1>
 
@@ -27,6 +24,9 @@ BGT, BG2:EE et EET<h3>
 ![Maintenance](https://img.shields.io/static/v1?label=maintenu%20%3F&message=oui&color=greenlight&style=plastic)
 ![GitHub contributors](https://img.shields.io/github/contributors/GwendolyneFreddy/L-Ogre-et-le-Gnome?color=blueviolet&label=contributeurs&style=plastic) [![Contributors Display](https://badges.pufler.dev/contributors/GwendolyneFreddy/L-Ogre-et-le-Gnome?size=30&padding=5&bots=true)](https://badges.pufler.dev)
 
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/GwendolyneFreddy/L-Ogre-et-le-Gnome/latest/total?color=gold&label=downloads%20latest%20release%20-%20t%C3%A9l%C3%A9chargements%20dernière%20version&style=plastic)
+![GitHub all releases](https://img.shields.io/github/downloads/GwendolyneFreddy/L-Ogre-et-le-Gnome/total?label=out%20of%20-%20sur%20un%20total%20de&color=yellow&style=plastic)
+
 
 <hr>
 
@@ -42,6 +42,19 @@ Un autre protagoniste du mod est un marchand gnome qui s’avère être la résu
 
 
 ## <a name="versions" id="versions"></a>Historique des versions
+
+##### TODO Version 3 &nbsp;( 2022)
+
+- Ajout du fichier de méta-données *derats_ogre.ini* (ainsi que de `LABELS` globaux) pour une meilleure intégration dans l'outil "Project Infinity".
+- Added des conditions `REQUIRE_PREDICATE` pour éviter d'installer le mod dans des jeux inappropriés.
+- Ajout de la compatibilité EET.
+- Suppression du :file_folder: répertoire "*backup*" inutile.
+- Mise en minuscules des fichiers et des répertoires.
+- Versions Linux et mac OS dans la même archive (merci à AL|EN's pour son utilitaire Infinity Auto Packager !).
+- Mise à jour de WeiDU (v249).
+- Correction du prix erroné des parchemins de niveau 1 et 2 du magasin.
+
+## 
 
 ##### Version 2 &nbsp;(9 Mai 2015)
 
